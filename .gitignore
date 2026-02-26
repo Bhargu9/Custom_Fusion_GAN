@@ -1,0 +1,33 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+
+# Checkpoints and Models
+saved_models/
+*.pth
+*.pt
+*.ckpt
+
+# Datasets and Processing
+dataset/
+data/
+results/
+images/validation/
+
+# Temporary files
+/tmp/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
