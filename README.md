@@ -59,8 +59,6 @@ The model's capacity to sharpen and enhance regional satellite data is shown bel
 **Comparison Results:**
 ![Comparison Result](images/comparision_result.png)
 
-**Full Image Enhancement:**
-![Full Result](images/Comparison_Full_result.png)
 
 ### Training Progression
 The network progressively refines high-frequency details. Below is an example of the generated output quality at Epoch 130:
