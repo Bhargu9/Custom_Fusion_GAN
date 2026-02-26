@@ -89,4 +89,4 @@ python test.py
 - **Institution**: Department of Computer Engineering, Institute of Infrastructure Technology Research and Management (IITRAM), Ahmedabad.
 - **Supervisor**: Professor Ashish Soni.
 
-We acknowledge the ISRO Bhoonidhi Portal for providing the underlying satellite imagery that made this regional super-resolution research possible.
+We acknowledge the ISRO Bhoonidhi Portal for providing the underlying satellite imagery that made this regional super-resolution research possible. More detailed information can be found in the [Project Report](Report.pdf).
